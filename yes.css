@@ -1,0 +1,14 @@
+body{
+    font-family: 'LucindaHandwriting', 'Lucida Sans', monospace;
+    text-align :center;
+    margin-top: 10%;
+    background-color: #fcb1de;
+
+
+}
+
+.message{
+    font-size:30px;
+    font-weight:bold;
+    color:white;
+}
